@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/nav_home_checked"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/nav_profile_checked"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/navigation_leaderboard"
+        android:icon="@drawable/nav_leaderboard_checked"
+        android:title="Leaderboard" />
+
+    <item
+        android:id="@+id/navigation_explore"
+        android:icon="@drawable/nav_explore_checked"
+        android:title="Explore" />
+
+</menu>
